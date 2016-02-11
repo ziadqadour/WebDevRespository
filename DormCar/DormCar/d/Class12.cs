@@ -7,5 +7,7 @@ namespace DormCar.d
 {
     public class Class12
     {
+        //dddddddddddddd
+        public int MyProperty { get; set; }
     }
 }
